@@ -1,0 +1,10 @@
+module.exports = `
+menu.btn.ranked Kompetitif
+menu.btn.shop Toko
+menu.btn.social Pusat
+menu.btn.maps Permainan
+menu.btn.mods Modifikasi
+menu.btn.settings Setelan
+menu.btn.customize Penyesuaian-
+menu.btn.invite Undang
+
