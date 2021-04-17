@@ -7,4 +7,92 @@ menu.btn.mods Modifikasi
 menu.btn.settings Setelan
 menu.btn.customize Penyesuaian-
 menu.btn.invite Undang
+menu.btn.invite.Tersalin
+menu.btn.join Ikut
+menu.btn.host Buat Permainan
+menu.btn.Mencari Servers
+generic.wait Mohon tunggu...
+generic.loading MEMUAT...
+generic.none None
+generic.connecting MENGHUBUNGKAN...
+generic.select Pilih
+generic.delete Hapus
+generic.save Simpan
+generic.load Memuatkan
+generic.search Cari
+generic.leave Keluar
+generic.default Default
+generic.submit Kirim
+generic.create Buat
+generic.random Acak
+generic.failed Gagal
+generic.success Sukses!
+generic.name Name
+generic.level Peringkat
+generic.score Skor
+generic.off Off
+generic.defeat KALAH
+generic.victory MENANG
+generic.matchover PERTANDINGAN SELESAI
+generic.matchaband PERTANDINGAN DIABAIKAN
+generic.follow Ikuti
+generic.unfollow Berhenti mengikuti
+generic.followers Pengikut
+generic.following mengikuti
+generic.games Permainan
+generic.wins Menang
+generic.lose Kalah
+generic.clan Klan
+generic.games.played Permainan yang telah dimaikan
+generic.games.won Memenangkan permainanan
+generic.games.lost Kekalahan permainan
+generic.timep Waktu Bermain
+generic.kills Bunuh
+generic.deaths Mati
+generic.kdr KDR
+generic.time Waktu
+generic.logout Keluar
+generic.logout.sessions Keluar semua sesi
+generic.username Masukkan Username
+generic.password Masukkan Password
+generic.register Daftar
+generic.login Masuk
+generic.accuracy Akurasi
+player.waiting menunggu pemain
+player.died Kau terbunuh
+player.killed Dibubuh oleh
+player.killstreak {0} on a {1} Pembunuhan berantai
+player.inactive Ditendang karena tidak aktif
+player.disconnect TERPUTUS
+timer.end Ronde selanjutnya {0}
+leaderboard.empty Lobi kosong
+popup.checkpoint Checkpoint!
+app.play KLIK UNTUK BERMAIN
+app.spectate KLIK UNTUK SPEKTASI
+app.play.mobile TEKAN UNTUK BERMAIN
+app.spectate.mobile TEKAN UNTUK SPEKTASI
+app.play.controller TEKAN MULAI
+app.spectate.controller TEKAN untuk SPEKTASI
+purchase.error Terjadinya Error
+purchase.error.click tekan sini</a> dan ulang lagi!
+purchase.error.limit Anda mungkin telah melebihi batas transaksi harian Anda
+settings.reset Reset
+settings.reset.confirm Apakah kamu tentu untuk mereset pengaturanmu?
+settings.import Import
+settings.export Export
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
