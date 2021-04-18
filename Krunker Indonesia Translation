@@ -80,6 +80,51 @@ settings.reset Reset
 settings.reset.confirm Apakah kamu tentu untuk mereset pengaturanmu?
 settings.import Import
 settings.export Export
+settings.none Pengaturan tidak dapat ditemukan
+settings.backup Pengaturan Cadangan
+settings.controls.change Keybinds
+settings.controls.press Tekan tombol apa saja
+settings.local.header Localization <span id="requiresRestart"><span style="color: #eb5656">*</span> harus restart</span>
+settings.local.region Wilayah Default
+settings.local.lang Bahasa
+settings.network.header Jaringan
+settings.network.sendRate Tickrate Tinggi
+settings.network.netRerouting Rute Auto (Mempengaruhi Ping)
+settings.network.lagComp Kompensasi Lag
+settings.popup.header Popups
+settings.popup.freeKRPop Tampilkan KR Gratis Popup
+settings.experimental.header Eksperimental
+settings.experimental.aimFreezeFix Perbaikan Aim Freeze
+settings.experimental.mouseFlickFix Perbaikan Mouse Flick
+settings.experimental.shaderRendering Instance Rendering
+settings.dev.header Pembuat
+settings.dev.forceUpdate Paksa Update Skins
+settings.dev.forceRegen Selalu Perbarui Pemain
+settings.dev.extraBan Info Ban Ekstra
+settings.chat.header Obrolan
+settings.chat.chat Tampilkan Kotak Obrolan
+settings.chat.chat.all Selalu
+settings.chat.chat.focus Saat Fokus
+settings.chat.messages Tampilakn Pesan Pemain
+settings.chat.unboxings Tampilkan Pembukaan Hadiah
+settings.chat.chatOp Kebeningan Chat
+settings.chat.chatBGOp Kebeningan BG Chat
+settings.chat.chatHeight Tinggi Chat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
