@@ -107,9 +107,64 @@ settings.chat.chat.all Selalu
 settings.chat.chat.focus Saat Fokus
 settings.chat.messages Tampilakn Pesan Pemain
 settings.chat.unboxings Tampilkan Pembukaan Hadiah
-settings.chat.chatOp Kebeningan Chat
-settings.chat.chatBGOp Kebeningan BG Chat
-settings.chat.chatHeight Tinggi Chat
+settings.chat.chatOp Kebeningan Obrolan
+settings.chat.chatBGOp Kebeningan BG Obrolan
+settings.chat.chatHeight Tinggi Obrolan
+settings.chat.chatTimer Waktu Obrolan
+settings.chat.chatTextOutline Garis Teks Obrolan
+settings.chat.chatFilter Filter Kata-Kata Kotor
+settings.quality.header Kinerja
+settings.quality.updRate Stamp Frame
+settings.quality.rendDst Jarak Render
+settings.quality.res Resolusi
+settings.quality.part Partikel
+settings.quality.mapDet Map Detail
+settings.quality.noTex Tidak Ada Teksture
+settings.quality.partdist Jarak Partikel
+settings.quality.renderdist Jarak Render
+settings.quality.reflection Kualitas Refleksi
+settings.quality.antiAlias Antialiasing
+settings.quality.shadows Bayangan
+settings.quality.softShad Bayangan Lembut
+settings.quality.highResShad Bayangan Resolusi Tinggi
+settings.quality.shadowsDynamic Bayangan Dinamis
+settings.quality.trails Jejak Peluru
+settings.quality.yourTrails Jejak Pelurumu
+settings.quality.mflash Flash Moncong
+settings.quality.flap Tutup Sniper
+settings.quality.lowSpec Spesifikasi Rendah
+settings.quality.ambient Naungan Sekeliling
+settings.quality.ambientOld Naungan Tua (Saat Bisa)
+settings.quality.textureAnim Animasi Tekstur
+settings.quality.objectAnim Animasi Objek
+settings.quality.screenShake Goyangan Layar
+settings.quality.weaponShine Sinar Senjata
+settings.quality.rendGamma Gamma
+settings.quality.lighting Lighting
+settings.quality.showExplo Tampilkan Ledakan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
