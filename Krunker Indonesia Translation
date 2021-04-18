@@ -142,6 +142,55 @@ settings.quality.weaponShine Sinar Senjata
 settings.quality.rendGamma Gamma
 settings.quality.lighting Lighting
 settings.quality.showExplo Tampilkan Ledakan
+settings.post.header Pengolahan Pasca
+settings.post.post Pengolahan Pasca
+settings.post.bloom Bloom
+settings.post.bloomThreshold Jumlah Bloom
+settings.post.bloomStrength Kekuatan Bloom
+settings.post.bloomRadius Radius Bloom
+settings.post.ssao SSAO
+settings.post.ssaoRadius Radius SSAO
+settings.interface.hitInd Tampilakan Indikators
+settings.interface.hitColor Warna Indikators
+settings.interface.dmg Tampilkan Damage
+settings.interface.dmgCol Warna Damage
+settings.interface.critCol Warna Kritis
+settings.interface.header Interface
+settings.interface.scale Skala UI
+settings.interface.ui Tampilkan UI
+settings.interface.scoreboard Papan Nilai Tua
+settings.interface.oldBrowser Browser Tua
+settings.interface.rarityanim Matikan Animasi Kelangkaan
+settings.interface.showPfp Tampilkan Foto Profil
+settings.interface.showTradeMsg Tampilkan Pemain Dagangan
+settings.interface.hp HP Dinamis
+settings.interface.dmgScale Skala Damage
+settings.interface.killf Tampilkan Pakan Membunuh
+settings.interface.ping Tampilkan Ping
+settings.interface.net-stats Tampilkan Status Jaringan
+settings.interface.fps Tampilkan FPS
+settings.interface.deaths Tampilkan Counter Mati
+settings.interface.kd Tampilkan Counter K/D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
